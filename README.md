@@ -1,6 +1,6 @@
-# replit/replit-code-v1-3b Cog model
+# sahil2801/replit-code-instruct-glaive Cog model
 
-This is an implementation of the [replit/replit-code-v1-3b](https://huggingface.co/replit/replit-code-v1-3b) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
+This is an implementation of the [sahil2801/replit-code-instruct-glaive](https://huggingface.co/sahil2801/replit-code-instruct-glaive) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
 
 First, download the pre-trained weights:
 
